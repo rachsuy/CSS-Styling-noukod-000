@@ -60,6 +60,6 @@ font-family: "Clicker Script", cursive;
 }
 
 #details  a:active{
-  color: black;
-  text-decoration: underline;
+  color: red;
+
 }
