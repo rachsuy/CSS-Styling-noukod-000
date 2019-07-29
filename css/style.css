@@ -40,7 +40,8 @@ box-shadow: 0 2px 3px #000;
 }
 
 /*Descendent selector*/
-#logo h1{
+#logo h1{/* Select h1 if inside the id="logo"*/
+font-family: "Clicker"
   
 }
 }
