@@ -58,3 +58,8 @@ font-family: "Clicker Script", cursive;
   color: black;
   text-decoration: underline;
 }
+
+#details  a:hover{
+  color: black;
+  text-decoration: underline;
+}
