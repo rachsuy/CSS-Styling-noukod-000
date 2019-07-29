@@ -49,4 +49,7 @@ font-family: "Clicker Script", cursive;
 }
 
 /*Pseudo selector*/
-#details
+#details a:link {
+  color: black;
+  text-decoration: none;
+}
