@@ -45,6 +45,8 @@ font-family: "Clicker Script", cursive;
 }
 
 #logo h2{/* Select h1 if inside the id="logo"*/
-
+ font-family: "Elsie Swash", cursive;
 }
+
+/*Pseudo selector*/
 
