@@ -59,7 +59,7 @@ font-family: "Clicker Script", cursive;
   text-decoration: underline;
 }
 
-#details  a:hover{
+#details  a:active{
   color: black;
   text-decoration: underline;
 }
