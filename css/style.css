@@ -44,5 +44,5 @@ box-shadow: 0 2px 3px #000;
 font-family: "Clicker Script", cursive;
 }
 
-#logo h2
+#logo h2{/* Select h1 if inside the id="logo"*/
 
